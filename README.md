@@ -12,8 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-
-                                                                                       NEURAL STYLE TRANSFER
+# NEURAL STYLE TRANSFER
 
 This is a **Streamlit-based web application** that performs **Neural Style Transfer** using a pre-trained VGG19 model. Upload a **content image** and a **style image**, and watch as your content gets transformed into a beautiful artistic rendering based on the style!
 
