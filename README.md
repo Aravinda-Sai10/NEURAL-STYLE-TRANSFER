@@ -18,6 +18,12 @@ This is a **Streamlit-based web application** that performs **Neural Style Trans
 # APP PREVIEW:
 
 ![APP PREVIEW](screenshots/OUTPUT%201.png)
+# Content Image:
+![content Image](https://github.com/user-attachments/assets/c86889ae-02a1-4289-a0c6-ce027b5626a0)
+
+# Style Image:
+![style Image](https://github.com/user-attachments/assets/d1ee1fb4-c17b-4627-bf54-bf9fe8c7c0a2)
+
 # WORKING:
 ![OUTPUT 2](https://github.com/user-attachments/assets/6f03b46b-fe2d-4e15-8e2c-a84dd15f30d5)
 ![OUTPUT 3](https://github.com/user-attachments/assets/2ad2c812-baf1-4f5b-aeda-022308e4a8ed)
