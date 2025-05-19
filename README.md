@@ -46,12 +46,18 @@ This is a **Streamlit-based web application** that performs **Neural Style Trans
 
 ## 📂 FILE STRUCTURE:
 
-neural-style-transfer/
+neural-style-transfer
+
 ├── app.py     # Main Streamlit app
+
 ├── style.css               #  CSS for UI styling
+
 ├── requirements.txt        # Python dependencies
+
 ├── .gitignore              # Files to ignore in Git
+
 └── screenshots/
+
     └── output.png  
 
 # TECHNOLOGIES USED:
@@ -68,8 +74,8 @@ neural-style-transfer/
 
 1.Clone this repository:
   
-   git clone https://github.com/Aravinda-Sai10/Neural-Style-Transfer.git
-   cd Neural-Style-Transfer
+   git clone https://github.com/Aravinda-Sai10/NEURAL-STYLE-TRANSFER.git
+   cd NEURAL-STYLE-TRANSFER
    
 2.  Create and activate a virtual environment:
    python -m venv venv
