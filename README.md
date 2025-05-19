@@ -48,7 +48,7 @@ This is a **Streamlit-based web application** that performs **Neural Style Trans
 ## 📂 FILE STRUCTURE:
 
 neural-style-transfer/
-├── app.py                  # Main Streamlit app
+├── app.py     # Main Streamlit app
 ├── style.css               #  CSS for UI styling
 ├── requirements.txt        # Python dependencies
 ├── .gitignore              # Files to ignore in Git
@@ -87,9 +87,13 @@ neural-style-transfer/
 # HOW IT WORKS:
 
 1.Load the content and style image.
+
 2.Use a pre-trained VGG19 model to extract content and style features.
+
 3.Compute content and style losses.
+
 4.Optimize a copy of the content image to minimize the total loss.
+
 5.Display and download the stylized output.
 
 ---
