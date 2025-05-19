@@ -97,7 +97,7 @@ st.subheader("🖌️ Upload Style Image")
 style_image_file = st.file_uploader("Choose Style Image", type=["jpg", "jpeg", "png"])
 
 # === Start Style Transfer Button ===
-if st.button("✨ Start Style Transfer"):
+if st.button(" Start Style Transfer"):
     if content_image_file is not None and style_image_file is not None:
         with st.spinner('🔀 Processing... Please wait...'):
 
@@ -174,7 +174,7 @@ if st.button("✨ Start Style Transfer"):
 
             # Download button
             st.download_button(
-                label="📅 Download Styled Image",
+                label=" Download Styled Image",
                 data=buffer,
                 file_name="styled_image.png",
                 mime="image/png"
