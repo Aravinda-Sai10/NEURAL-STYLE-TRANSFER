@@ -44,7 +44,7 @@ This is a **Streamlit-based web application** that performs **Neural Style Trans
 
 ---
 
-## 📂 FILE STRUCTURE:
+##  FILE STRUCTURE:
 
 neural-style-transfer
 
